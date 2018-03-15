@@ -1,5 +1,6 @@
 # puppeteer-crawler
-Puppeteer simple implementation to create web crawlers
+Puppeteer simple implementation to create web crawlers.
+
 Let's develop a Web Crawler to scrapy different web pages and extract relevant data.
 
 ## Goals
